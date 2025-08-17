@@ -14,8 +14,4 @@ It can:
 
 - Python 3.9+
 - OpenAI Agent SDK
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
+- 
